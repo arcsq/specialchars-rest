@@ -13,3 +13,4 @@ http://localhost:8080/post
 The post call prints the string that is sent with a special character. The string is sent as a request body
 
 Watch the System.out
+
